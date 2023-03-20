@@ -4,10 +4,6 @@
 This is a clone project of OmniFood website. HTML, CSS and JavaScript has been used to for this project, it working completely fine as intended and can be used for reference
 
 
-## Tech Stack
-
-HTML, CSS and JavaScript
-
 
 ## Project Structure
 * index.html: The main HTML file that contains the markup and scripts for the project.
