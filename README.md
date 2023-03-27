@@ -1,5 +1,5 @@
 
-# Bankist Application
+# OmniFood Website
 
 This is a clone project of OmniFood website. HTML, CSS and JavaScript has been used to for this project, it working completely fine as intended and can be used for reference
 
